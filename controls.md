@@ -25,6 +25,21 @@ use the modifier to point to the wall clock, then hold analog left/right (vive t
 
 How to handle games and cables: grab a game with your hand, insert it into the console. Just hover the cartridge in the right position above the cartridge slot, and it will glow, so just release it and it will be inserted.
 
+## Mouse / Keyboard (desktop mode)
+
+[esc] - Close EmuVR
+[tab] - Pull up spawnables (random items, consoles, media) backtick
+(\`) - Toggle grabbed mouse cursor
+WASD - Move
+x (tap) - Grab highlighted item, bring it close to your view
+x (hold for a few seconds) - Grab selected item, retain current distance
+[ctrl] (hold) - Rotate held item
+z - Throw held item
+c - Power on highlighted TV [spacebar] - power on console and grab user control
+f (once on one object, then again on a second) - Link cables for a console/TV
+Mouse scroll - change distance of held item (away from or closer to your view)
+
+
 # How to control a game
 Hold the modifier button (index finger on touch, grip on vive) to show a laser pointer. Point it to a tv running a game, and press A or X on touch, or trackpad Down on vive (any hand)
 then it will swap all input to the game, and you can't control your avatar anymore, until you press the exit command: press both thumb sticks on touch/gamepad, or both "menu button"s on the vive
