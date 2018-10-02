@@ -1,5 +1,6 @@
 # EmuVR
 
+![](/images/logo-medium.png)
 1. Extract EmuVR.7z anywhere
 2. Download Retroarch 1.7.5: http://buildbot.libretro.com/stable/1.7.5/windows/x86_64/RetroArch.7z
 (Stay always on that version, it's better to have a clean download, try to not use your previous installation)
