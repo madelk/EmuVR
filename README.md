@@ -12,7 +12,7 @@
 	(They can be called anything)
 	2. They can be called anything. Separated folder will distinguish their appearance and connectivity with consoles.
 	For example, there should be a folder for SNES PAL and SNES NTSC, as the cartriges look different.
-6: Open \EmuVR\Game Scanner\Game Scanner.exe
+6. Open \EmuVR\Game Scanner\Game Scanner.exe
   1. Click "Attempt Autofill"
 (This will check for common names for systems and should fill in most of your folders. Example for PS1 names to search from the database: PS1, PSX, PlayStation,	PlayStation 1, PSONE, PS ONE, PS 1, etc)
   2. Check for folders that it could not find, and add them by manually by clicking on "Add Folders..."
