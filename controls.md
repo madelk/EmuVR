@@ -27,17 +27,17 @@ How to handle games and cables: grab a game with your hand, insert it into the c
 
 ## Mouse / Keyboard (desktop mode)
 
-[esc] - Close EmuVR
-[tab] - Pull up spawnables (random items, consoles, media) backtick
-(\`) - Toggle grabbed mouse cursor
-WASD - Move
-x (tap) - Grab highlighted item, bring it close to your view
-x (hold for a few seconds) - Grab selected item, retain current distance
-[ctrl] (hold) - Rotate held item
-z - Throw held item
-c - Power on highlighted TV [spacebar] - power on console and grab user control
-f (once on one object, then again on a second) - Link cables for a console/TV
-Mouse scroll - change distance of held item (away from or closer to your view)
+* [esc] - Close EmuVR
+* [tab] - Pull up spawnables (random items, consoles, media) backtick
+* (\`) - Toggle grabbed mouse cursor
+* WASD - Move
+* x (tap) - Grab highlighted item, bring it close to your view
+* x (hold for a few seconds) - Grab selected item, retain current distance
+* [ctrl] (hold) - Rotate held item
+* z - Throw held item
+* c - Power on highlighted TV [spacebar] - power on console and grab user control
+* f (once on one object, then again on a second) - Link cables for a console/TV
+* Mouse scroll - change distance of held item (away from or closer to your view)
 
 
 # How to control a game
