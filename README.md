@@ -24,3 +24,5 @@
 7. Click "Download missing cores". See the little arrows to the left in the Cores folders? Those are cores that you still haven't downloaded. This button should download and extract them automatically in the right place on Retroarch's folders.
 8. Click "Scan Games for EmuVR". What it does is it will first use Retroarch's own scanner to find games against the database, and their "canonical" names. Then it will run another scan to check for files with the expected extensions in the correct folders for each core. Example: for SNES cores, it will look for files ending in .sfc, .smc, and it will also look inside .zip files.
 
+# Controls
+Main document [here](controls.md)
