@@ -35,7 +35,9 @@ How to handle games and cables: grab a game with your hand, insert it into the c
 * x (hold for a few seconds) - Grab selected item, retain current distance
 * [ctrl] (hold) - Rotate held item
 * z - Throw held item
-* c - Power on highlighted TV [spacebar] - power on console and grab user control
+* c - Power on highlighted TV
+* [spacebar] - power on console and grab user control
+* [tab] (when locked into control for a game) - Close the game, break free of control
 * f (once on one object, then again on a second) - Link cables for a console/TV
 * Mouse scroll - change distance of held item (away from or closer to your view)
 
