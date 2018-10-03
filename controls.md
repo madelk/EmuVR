@@ -13,11 +13,13 @@ click and slide like an analog on the left. Click left/right on the right hand f
 WASD to walk, hold right mouse button to look around. Press BACKQUOTE to lock/unlock mouse (that's kinda temporary)
 If a console is plugged into a TV and has a game inserted: PUSH THE BUTTON WITH YOUR FINGER!
 	Push the right way: PS1 power button is just pressing down, N64 power switch, move the button forward to switch on, back to switch off.
+	
 ## Gamepad
-* A to power on things and control game if pointing to a TV running a game(edited)
-* exit controlled game by pressing both thumbsticks
-* X will grab things, I just forgot what B does LOL
-* LB and RB will snap turn
+
+* [a] - power on highlighted console (and connected TV) and grab user control
+* [Thumbstick_L]+[Thumbstick_R] - detatch user from game
+* [x] will grab things
+* [LB] and [RB] - snap turn
 
 use the modifier to point to the wall clock, then hold analog left/right (vive trackpad left right) to change the time!
 	(or press A/X to make it use the real time from your PC)
@@ -36,11 +38,13 @@ How to handle games and cables: grab a game with your hand, insert it into the c
 * [ctrl] (hold) - Rotate held item
 * z - Throw held item
 * c - Power on highlighted TV
-* [spacebar] - power on console and grab user control
+* [spacebar] - power on highlighted console (and connected TV) and grab user control
 * [ctrl] + [spacebar] - detatch user from game
 * [tab] (when locked into control for a game) - Close the game, break free of control
 * f (once on one object, then again on a second) - Link cables for a console/TV
 * Mouse scroll - change distance of held item (away from or closer to your view)
+
+* To change the time of day - LeftClick(hold) on the clock and use left/right
 
 
 # How to control a game
