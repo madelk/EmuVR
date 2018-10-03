@@ -17,4 +17,6 @@ Games\Videos\video_file_name.mp4
 My Video Title
 anything|anything
 ```
-6. Add a "Video" console and insert one of the "Video" carts. Start the console as normal.
+6. Rescan
+7. Start EmuVR
+8. Add a "Video" console and insert one of the "Video" carts. Start the console as normal.
