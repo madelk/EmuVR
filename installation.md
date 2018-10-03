@@ -1,5 +1,3 @@
-![](/images/logo-medium.png)
-
 1: Download the following archives;
    * EmuVR base archive
       * https://drive.google.com/open?id=1EhQKG9TYFdudbAp-e9tnFy1OIm0ctO5t
