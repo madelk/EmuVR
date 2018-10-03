@@ -20,6 +20,7 @@ If a console is plugged into a TV and has a game inserted: PUSH THE BUTTON WITH 
 * [Thumbstick_L]+[Thumbstick_R] - detatch user from game
 * [**x**] will grab things
 * [**LB**] and [**RB**] - snap turn
+* [**start**] - Open the spawn menu
 
 * To change the time of day - Point to the wall clock, then hold analog left/right (vive trackpad left right)
    * (or press A/X to make it use the real time from your PC)
