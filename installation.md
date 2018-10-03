@@ -22,24 +22,31 @@
       * Each console will have it's own folder, e.g. "n64", "genesis", etc.
       * You can delete the default "SystemX/Y/Z" folders.
    2. Move the .zip (or .sfc, etc) into **c:\EmuVR\Games\snes**
-8. Run **C:\EmuVR\Game Scanner\Game Scanner.exe**
-   1. Click "Attempt Autofill"
-   2. Make sure **c:\EmuVR\Games\snes** has been added, it's Media is "SNES", and a related Core is selected.
+8. Add games to EmuVR
+   1. Run **C:\EmuVR\Game Scanner\Game Scanner.exe**
+   2. Click "Attempt Autofill"
+   3. Make sure **c:\EmuVR\Games\snes** has been added, it's Media is "SNES", and a related Core is selected.
       * In this case, I'm going to manually select "Nintendo - SNES / Famicom (Snes9x)" because I've tested it and it works well.
-   3. Click "Save Changes".
-   4. Click "Download Missing Cores" (wait for the download to complete and click "Ok")
-   5. Click "Scan Games for EmuVR" (Wait for the scan to complete, then click "Ok")
-   6. \[TEMPORARY STEP TO CORRECT KNOWN ISSUE\] Close the scanner. Reopen the scanner. Change any setting, then change it back (to enable the "Save Changes" button). Click "Save Changes". Close the scanner.
+   4. Click "Save Changes".
+   5. Click "Download Missing Cores" (wait for the download to complete and click "Ok")
+   6. Click "Scan Games for EmuVR" (Wait for the scan to complete, then click "Ok")
+   7. \[TEMPORARY STEP TO CORRECT KNOWN ISSUE\] Close the scanner. Reopen the scanner. Change any setting, then change it back (to enable the "Save Changes" button). Click "Save Changes". Close the scanner.
 9. Run **C:\EmuVR\EmuVR.exe** and make sure your consoles and carts are available
    * If you would like to run in Desktop Mode, unpack **Forgot this.7z** into **C:\EmuVR** so that the .bat files are in the same place as EmuVR.exe. 
 
 # Adding games after the initial install
 
-Instructions pending...
+1. Run **C:\EmuVR\Game Scanner\Game Scanner.exe**
+2. Click "Attempt Autofill"
+3. Make sure the folders you've added to **C:\EmuVR\Games** have been added. If not, click on "Add Folder..." and add it.
+   * Make sure to select the correct **Media** type and **Core**
+4. Click "Save Changes".
+5. Click "Download Missing Cores" (wait for the download to complete and click "Ok")
+6. Click "Scan Games for EmuVR" (Wait for the scan to complete, then click "Ok")
 
 # Customizing game labels, posters, etc
 
-Instructions pending...
+Please see [this document](custom.md).
 
 # Troubleshooting
 
