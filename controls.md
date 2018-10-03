@@ -16,10 +16,10 @@ If a console is plugged into a TV and has a game inserted: PUSH THE BUTTON WITH 
 	
 ## Gamepad
 
-* [a] - power on highlighted console (and connected TV) and grab user control
-* [Thumbstick_L]+[Thumbstick_R] - detatch user from game
-* [x] will grab things
-* [LB] and [RB] - snap turn
+* \[a] - power on highlighted console (and connected TV) and grab user control
+* \[Thumbstick_L]+\[Thumbstick_R] - detatch user from game
+* \[x] will grab things
+* \[LB] and \[RB] - snap turn
 
 use the modifier to point to the wall clock, then hold analog left/right (vive trackpad left right) to change the time!
 	(or press A/X to make it use the real time from your PC)
@@ -29,22 +29,22 @@ How to handle games and cables: grab a game with your hand, insert it into the c
 
 ## Mouse / Keyboard (desktop mode)
 
-* [esc] - Close EmuVR
-* [tab] - Pull up spawnables (random items, consoles, media) backtick
-* (\`) - Toggle grabbed mouse cursor
-* WASD - Move
-* x (tap) - Grab highlighted item, bring it close to your view
-* x (hold for a few seconds) - Grab selected item, retain current distance
-* [ctrl] (hold) - Rotate held item
-* z - Throw held item
-* c - Power on highlighted TV
-* [spacebar] - power on highlighted console (and connected TV) and grab user control
-* [ctrl] + [spacebar] - detatch user from game
-* [tab] (when locked into control for a game) - Close the game, break free of control
-* f (once on one object, then again on a second) - Link cables for a console/TV
+* \[esc] - Close EmuVR
+* \[tab] - Pull up spawnables (random items, consoles, media) backtick
+* \[\`] - Toggle grabbed mouse cursor
+* [w|a|s|d] - Move
+* \[x] (tap) - Grab highlighted item, bring it close to your view
+* \[x] (hold for a few seconds) - Grab selected item, retain current distance
+* \[ctrl] (hold) - Rotate held item
+* \[z] - Throw held item
+* \[c] - Power on highlighted TV
+* \[spacebar] - power on highlighted console (and connected TV) and grab user control
+* \[ctrl]+\[spacebar] - detatch user from game
+* \[tab] (when locked into control for a game) - Close the game, break free of control
+* \[f] (once on one object, then again on a second) - Link cables for a console/TV
 * Mouse scroll - change distance of held item (away from or closer to your view)
 
-* To change the time of day - LeftClick(hold) on the clock and use left/right
+* To change the time of day - \[LeftClick](hold) on the clock and use \[left]/\[right]
 
 
 # How to control a game
