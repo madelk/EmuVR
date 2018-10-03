@@ -17,4 +17,4 @@ Games\Videos\video_file_name.mp4
 My Video Title
 anything|anything
 ```
-6. Play it (instructions pending...)
+6. Add a "Video" console and insert one of the "Video" carts. Start the console as normal.
