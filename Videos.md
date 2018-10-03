@@ -1,7 +1,7 @@
 To play videos;
 
 1. Create a folder called "Videos" in the EmuVR Games folder ("EmuVR\Games\Videos")
-2. Create a file called "emuvr_core.txt" with the following content;
+2. Create a file within that folder, and name it "emuvr_core.txt". Enter the following as the contents;
 
 ```
 core = "video"
