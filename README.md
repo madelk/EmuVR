@@ -23,6 +23,8 @@
    6. Click "Save Changes". That will save a "emuvr_core.txt" with some settings into each of your console folders.
    7. Click "Download missing cores". See the little arrows to the left in the Cores folders? Those are cores that you still haven't downloaded. This button should download and extract them automatically in the right place on Retroarch's folders.
    8. Click "Scan Games for EmuVR". What it does is it will first use Retroarch's own scanner to find games against the database, and their "canonical" names. Then it will run another scan to check for files with the expected extensions in the correct folders for each core. Example: for SNES cores, it will look for files ending in .sfc, .smc, and it will also look inside .zip files.
-
+   9. To resolve a known issue; Close the scanner, reopen it, change something, and hit save. Close the scanner again.
+7. Start EmuVR and check for consoles and carts/cds. Let the chat know if you don't see what you expect.
+   
 # Controls
 Main document [here](controls.md)
