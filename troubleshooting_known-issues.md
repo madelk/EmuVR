@@ -11,5 +11,6 @@ These are issues that EmuVR is aware of and will be looking into;
 * Videos occasionally crash EmuVR
 * There's a white ring around the view
 * Attempting to spawn a tiny(90s) screen actually spawns a medium(90s) screen
+* When adding a custom texture for the pillow, it doesn't override the default one
 * If you have a Videos folder defined with no media type or core, you can't save
    * ![](/images/videos_unselected_error.png)
