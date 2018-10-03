@@ -21,11 +21,15 @@ If a console is plugged into a TV and has a game inserted: PUSH THE BUTTON WITH 
 * [**x**] will grab things
 * [**LB**] and [**RB**] - snap turn
 
-use the modifier to point to the wall clock, then hold analog left/right (vive trackpad left right) to change the time!
-	(or press A/X to make it use the real time from your PC)
-	(or hold BOTH modifiers and press left/right anywhere to change time without having to look at the clock)
+* To change the time of day - Point to the wall clock, then hold analog left/right (vive trackpad left right)
+   * (or press A/X to make it use the real time from your PC)
+   * (or hold BOTH modifiers and press left/right anywhere to change time without having to look at the clock)
 
-How to handle games and cables: grab a game with your hand, insert it into the console. Just hover the cartridge in the right position above the cartridge slot, and it will glow, so just release it and it will be inserted.
+* How to handle games and cables
+   * Insert the game - Grab a game with your hand (trigger), insert it into the console (hover the cartridge in the right position above the cartridge slot, it will glow) release the trigger it and it will be inserted
+   * Turn on the console. Either;
+      * Hold the grip buttons and press the trigger or,
+      * Use the index finger to flick the power switch
 
 ## Mouse / Keyboard (desktop mode)
 
