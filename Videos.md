@@ -20,3 +20,5 @@ anything|anything
 6. Rescan
 7. Start EmuVR
 8. Add a "Video" console and insert one of the "Video" carts. Start the console as normal.
+
+The instructions for setting up a Music folder is identical, except replace "Videos" with "Music"
