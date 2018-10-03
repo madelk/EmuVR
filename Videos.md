@@ -19,6 +19,7 @@ anything|anything
 ```
 6. Rescan
    * Note: Scanning, in this case, will not find new video files. We use this button as an automated way to append the custom playlist to the main playlist. The main playlist is always rewritten during a scan, which is why we use the custom playlist file.
+   * Note: The scan isn't appending the file properly right now, this is a known issue. Copy the contents of the custom file into the main playlist for now.
 7. Start EmuVR
 8. Add a "Video" console and insert one of the "Video" carts. Start the console as normal.
 
