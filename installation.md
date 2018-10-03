@@ -1,3 +1,5 @@
+# Installation
+
 1. Download the following archives;
    * EmuVR base archive (EmuVR.7z)
       * https://drive.google.com/open?id=1EhQKG9TYFdudbAp-e9tnFy1OIm0ctO5t
@@ -30,3 +32,15 @@
    6. \[TEMPORARY STEP TO CORRECT KNOWN ISSUE\] Close the scanner. Reopen the scanner. Change any setting, then change it back (to enable the "Save Changes" button). Click "Save Changes". Close the scanner.
 9. Run **C:\EmuVR\EmuVR.exe** and make sure your consoles and carts are available
    * If you would like to run in Desktop Mode, unpack **Forgot this.7z** into **C:\EmuVR** so that the .bat files are in the same place as EmuVR.exe. 
+
+# Adding games after the initial install
+
+Instructions pending...
+
+# Customizing game labels, posters, etc
+
+Instructions pending...
+
+# Troubleshooting
+
+Please see [this document](troubleshooting_known-issues.md).
