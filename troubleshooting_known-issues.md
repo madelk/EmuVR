@@ -15,3 +15,9 @@ These are issues that EmuVR is aware of and will be looking into;
 * Occasionally, a new user's Retroarch will be set to mute by default (first time setup only)
 * If you have a Videos folder defined with no media type or core, you can't save
    * ![](/images/videos_unselected_error.png)
+
+# Not well tested issues
+
+These are issues that aren't well tested, and may be user specific
+
+* Turning on a console may result in it turning off a few seconds later.
