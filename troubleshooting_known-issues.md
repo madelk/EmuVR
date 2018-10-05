@@ -6,6 +6,8 @@
    * If that doesn't resolve the issue, make sure to follow step 6 [here](installation.md).
 * "Jeepers this game is running fast!"
    * Try hitting spacebar. That's the default hotkey for fast-forward (toggle).
+* (In general) "My Game won't start, and I've tried all the other steps"
+   * Make sure you can run the game directly from EmuVR\Retroarch\retroarch.exe . If it doesn't run in Retroarch, it's not going to run in EmuVR. There are several causes of these kinds of issues, like missing or misnamed BIOS files. The Retroarch documentation and help community will almost certainly be a better (or fast) resource than the EmuVR help channels (since they already have practice supporting Retroarch).
 
 # Known issues
 
