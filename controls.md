@@ -17,6 +17,7 @@ If a console is plugged into a TV and has a game inserted: PUSH THE BUTTON WITH 
 ## Gamepad
 
 * [**a**] - power on highlighted console (and connected TV) and grab user control
+* [**start**]+[**select**] - Show retroarch menu on the screen you're locked to
 * [Thumbstick_L]+[Thumbstick_R] - detatch user from game
 * [**x**] will grab things
 * [**LB**] and [**RB**] - snap turn
