@@ -10,7 +10,7 @@ This list is incomplete- a ? represents a control that has not yet been confirme
 | Control | KB/M | Vive | Touch | Gamepad |
 |---------|------|------|-------|---------|
 | Lock Mouse Cursor | \` | ? | ? | ? |
-| Movement | WASD | Trackpack Up/Down | Analong Up/Down | ? |
+| Movement | WASD | Trackpack Up/Down (Teleport) | Analong Up/Down(Teleport) | ? |
 | Toggle Power(TV) | C | ? | ? | ? |
 | Power On (Console) | Spacebar | Push the button on the console | Push the button on the console | A |
 | Power Off (Console) | Tab(While Attached) | Grip + Trackpad Down(Target system and hold) | Trigger + A/X(Target system and hold)| A(Target system and hold)|
