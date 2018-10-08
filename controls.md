@@ -1,59 +1,64 @@
+# Controls
 
-# Touch and Vive:
-Teleport using analog forward or back on Touch. Press the trackpack up or down on the Vive. Any hand.
-Left/right analog/trackpad press will snap turn.
-Shortcut to swap between locomotion and teleport mode: hold both modifiers and press A or X on Touch, or trackpad Down on any Vive hand
+There are a lot of controls in EmuVR, and each core also supports control mapping via RetroArch. It is important to note that this document covers controls used mainly by EmuVR and **NOT** RetroArch, as those can be mapped by running RetroArch.exe or using the RetroArch menu while running a game.
 
-# Locomotion mode: 
-## Touch
-walk with left analog, snap turn with right analog. 
-## Vive
-click and slide like an analog on the left. Click left/right on the right hand for snap turn.
-## Keyboard and Mouse
-WASD to walk, hold right mouse button to look around. Press BACKQUOTE to lock/unlock mouse (that's kinda temporary)
-If a console is plugged into a TV and has a game inserted: PUSH THE BUTTON WITH YOUR FINGER!
-	Push the right way: PS1 power button is just pressing down, N64 power switch, move the button forward to switch on, back to switch off.
-	
-## Gamepad
-
-* [**a**] - power on highlighted console (and connected TV) and grab user control
-* [**start**]+[**select**] - Show retroarch menu on the screen you're locked to
-* [Thumbstick_L]+[Thumbstick_R] - detatch user from game
-* [**x**] will grab things
-* [**LB**] and [**RB**] - snap turn
-* [**start**] - Open the spawn menu
-
-* To change the time of day - Point to the wall clock, then hold analog left/right (vive trackpad left right)
-   * (or press A/X to make it use the real time from your PC)
-   * (or hold BOTH modifiers and press left/right anywhere to change time without having to look at the clock)
-
-* How to handle games and cables
-   * Insert the game - Grab a game with your hand (trigger), insert it into the console (hover the cartridge in the right position above the cartridge slot, it will glow) release the trigger it and it will be inserted
-   * Turn on the console. Either;
-      * Hold the grip buttons and press the trigger or,
-      * Use the index finger to flick the power switch
-
-## Mouse / Keyboard (desktop mode)
-
-* [**esc**] - Close EmuVR
-* [**tab**] - Pull up spawnables (random items, consoles, media) backtick
-* [\`] - Toggle grabbed mouse cursor
-* [**w|a|s|d**] - Move
-* [**x**] (tap) - Grab highlighted item, bring it close to your view
-* [**x**] (hold for a few seconds) - Grab selected item, retain current distance
-* [**ctrl**] (hold) - Rotate held item
-* [**z**] - Throw held item
-* [**c**] - Power on highlighted TV
-* [**spacebar**] - power on highlighted console (and connected TV) and grab user control
-* [**ctrl**]+[**spacebar**] - detatch user from game
-* [**tab**] (when locked into control for a game) - Close the game, break free of control
-* [**f**] (once on one object, then again on a second) - Link cables for a console/TV
-* Mouse scroll - change distance of held item (away from or closer to your view)
-
-* To change the time of day - \[LeftClick](hold) on the clock and use \[left]/\[right]
+At this time you can play using Keyboard/Mouse, Vive Wands, Oculus Touch, or gamepads that support XInput/can emulate XInput via software.
 
 
-# How to control a game
-Hold the modifier button (index finger on touch, grip on vive) to show a laser pointer. Point it to a tv running a game, and press A or X on touch, or trackpad Down on vive (any hand)
-then it will swap all input to the game, and you can't control your avatar anymore, until you press the exit command: press both thumb sticks on touch/gamepad, or both "menu button"s on the vive
-then you'll get to control yourself again
+This list is incomplete- a ? represents a control that has not yet been confirmed/documented.
+
+| Control | KB/M | Vive | Touch | Gamepad |
+|---------|------|------|-------|---------|
+| Lock Mouse Cursor | \` | ? | ? | ? |
+| Movement | WASD | Trackpack Up/Down | Analong Up/Down | ? |
+| Toggle Power(TV) | C | ? | ? | ? |
+| Power On (Console) | Spacebar | Push the button on the console | Push the button on the console | A |
+| Power Off (Console) | Tab(While Attached) | Grip + Trackpad Down(Target system and hold) | Trigger + A/X(Target system and hold)| A(Target system and hold)|
+| Attach to Console | Spacebar | Modifier+Trackpad Down | Modifier+A/X | ? |
+| Release from Console | Cntrl+Spacebar | Both Menu Buttons | ? | Both Analog Sticks |
+| Attach Cables (Use on console, then TV) | 
+| Spawn Menu | Tab | ? | ? | ? |
+| Grab Item (Hold to maintain distance) | X | ? | ? | ? |
+| Throw Item | Z | ? | ? | ? |
+| Change Time (While highlighting clock)) | Left/Right Arrow | ? | ? | D-Pad Left/Right |
+| Swap to System Time (While highlighting clock) | Spacebar | ? | ? | ? |
+| Swap Movement Mode(Teleport/Locomotion) | ? | Both Grips + Trackpad Down | Both Triggers + A/X | ? |
+| Display RetroArch Menu (While attached to a system) | ? | (Left) X+Y | Start + Select |
+
+
+#In-Game (Vive/Touch)
+
+EmuVR also remaps keys on your Vive/Touch to keys found on consoles, if you wish to play with them instead of a gamepad.
+
+##Vive
+`RPadUp = A
+RPadLeft = LShoulder
+RPadRight = RShoulder
+RPadDown = Back
+RTrigger = B
+Right Menu = X
+Right Grip = Y
+Left Menu = Start
+Left Pad = Left Analog/D-Pad
+Left Grip + Right Pad(Touch, don't click) = Right Analog
+`
+
+##Touch
+`A = A
+B = B
+Right Trigger = X
+Right Grab = Y
+Left Thumbstick (press) = LB
+Left Trigger = RB
+Y = Start
+X = Back
+Left analog and right analog = left analog and right analog
+Left Analog = DPad on systems without analog.
+
+To use the DPad on systems *with* analog sticks, press the right stick and use the left as a dpad.
+`
+
+
+
+
+
