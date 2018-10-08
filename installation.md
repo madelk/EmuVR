@@ -22,7 +22,7 @@
       * The name of the folder doesn't matter, as long as it's descriptive.
       * Each console will have it's own folder, e.g. "n64", "genesis", etc.
       * You can delete the default "SystemX/Y/Z" folders.
-   2. Move the .zip (or .sfc, etc) into **c:\EmuVR\Games\snes**
+   2. Move the .zip (or .sfc, etc) into **c:\EmuVR\Games\snes** -- *Please make sure you read the important note under "Adding games after the initial install"*
 9. Add games to EmuVR
    1. Run **C:\EmuVR\Game Scanner\Game Scanner.exe**
    2. Click "Attempt Autofill"
@@ -44,6 +44,8 @@
 4. Click "Save Changes".
 5. Click "Download Missing Cores" (wait for the download to complete and click "Ok")
 6. Click "Scan Games for EmuVR" (Wait for the scan to complete, then click "Ok")
+
+**IMPORTANT NOTE:** EmuVR loads all of your games into memory at launch. What this means is that there is a theoretical limit to how many games you can have at once, based on your available memory. Therefore it is *strongly* recommended that you add games you know you'll play/actually own/want to display in-game, instead of dropping your collection of *_,000* games into EmuVR.
 
 # Customizing game labels, posters, etc
 
