@@ -10,7 +10,9 @@ This list is incomplete- a ? represents a control that has not yet been confirme
 | Control | KB/M | Vive | Touch | Gamepad |
 |---------|------|------|-------|---------|
 | Lock Mouse Cursor | \` | N/A | N/A | N/A |
-| Movement | WASD | Trackpack Up/Down (Teleport) | Analong Up/Down(Teleport) | Analog Sticks |
+| Movement | WASD | (Left)Trackpad | (Left)Analog Stick | Analog Sticks |
+| Teleport | T | Trackpack Up/Down (Teleport Mode) | Analong Up/Down(Teleport Mode) | Left Analog |
+| Snap Turn | Q/E | Trackpad Left/Right(Right in Locomotion Mode) | Analog Left/Right(Right hand in Locomotion Mode) | LB/RB |
 | Toggle Power(TV) | C | Grip + (Left)Trackpad Right | Trigger + B | A |
 | Power (Console - Hold while targeting to power off) | Spacebar | Grip + Trackpad Down | Trigger + A/X | A |
 | Attach to Console | Spacebar | Modifier+Trackpad Down | Modifier+A/X | A |
@@ -24,7 +26,7 @@ This list is incomplete- a ? represents a control that has not yet been confirme
 | Change Time (Anywhere) | Cntrl+Left/Right Arrow | Both Grips + (Left)Trackpad Left/Right | Both Triggers + Analog Left/Right | Hold Right Analog + (Left Analog/DPad) Left/Right |
 | Swap to System Time (While highlighting clock) | Spacebar | Grip + Trackpad Down | Trigger + A/X | A |
 | Swap Movement Mode(Teleport/Locomotion) | N/A | Both Grips + Trackpad Down | Both Triggers + A/X | Hold Left Analog + A |
-| Display RetroArch Menu** (While attached to a system) | Shift+Enter | Left Menu + Right Menu | (Left) X+Y | Start + Select |
+| Display RetroArch Menu** (While attached to a system) | Shift+Enter | Left Menu + Right Touchpad Down | (Left) X+Y | Start + Select |
 
 *\*Don't throw your actual controller, please*
 
@@ -34,35 +36,19 @@ This list is incomplete- a ? represents a control that has not yet been confirme
 
 EmuVR also remaps keys on your Vive/Touch to keys found on consoles, if you wish to play with them instead of a gamepad.
 
-## Vive
-`RPadUp = A
-RPadLeft = LShoulder
-RPadRight = RShoulder
-RPadDown = Back
-RTrigger = B
-Right Menu = X
-Right Grip = Y
-Left Menu = Start
-Left Pad = Left Analog/D-Pad
-Left Grip + Right Pad(Touch, don't click) = Right Analog
-`
-
-## Touch
-`A = A
-B = B
-Right Trigger = X
-Right Grab = Y
-Left Thumbstick (press) = LB
-Left Trigger = RB
-Y = Start
-X = Back
-Left analog and right analog = left analog and right analog
-Left Analog = DPad on systems without analog.
-
-To use the DPad on systems *with* analog sticks, press the right stick and use the left as a dpad.
-`
-
-
+| Game Key | Vive | Touch |
+|----------|------|-------|
+| A | Right Pad Up | A
+| B | Right Trigger | B
+| X | Right Menu | Back
+| Y | Right Grip | Start
+| Start | Left Menu | 
+| Select | Right Menu | 
+| Right Shoulder | Right Pad Right | Left Trigger
+| Left Shoulder | Right Pad Left | Left Analog(Press)
+| Analog (Left) | Left Pad | Left Analog
+| Analog (Right) | Left Grip + Right Pad (Touch, don't click) | Right Analog
+| DPad | Left Pad (System without sticks) *or * Left Grip + Left Pad | Left Analog(System without sticks) *or* Right Stick(Press) + Left Analog
 
 
 
