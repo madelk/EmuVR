@@ -42,8 +42,8 @@ EmuVR also remaps keys on your Vive/Touch to keys found on consoles, if you wish
 | B | Right Trigger | B
 | X | Right Menu | Back
 | Y | Right Grip | Start
-| Start | Left Menu | 
-| Select | Right Menu | 
+| Start | Left Menu | Y
+| Select | Right Menu | X
 | Right Shoulder | Right Pad Right | Left Trigger
 | Left Shoulder | Right Pad Left | Left Analog(Press)
 | Analog (Left) | Left Pad | Left Analog
