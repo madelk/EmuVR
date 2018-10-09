@@ -45,7 +45,7 @@
 5. Click "Download Missing Cores" (wait for the download to complete and click "Ok")
 6. Click "Scan Games for EmuVR" (Wait for the scan to complete, then click "Ok")
 
-**IMPORTANT NOTE:** EmuVR loads all of your games into memory at launch. What this means is that there is a theoretical limit to how many games you can have at once, based on your available memory. Therefore it is *strongly* recommended that you add games you know you'll play/actually own/want to display in-game, instead of dropping your collection of *_,000* games into EmuVR.
+**IMPORTANT NOTE:** EmuVR loads labels for all of your games into video memory at launch. What this means is that there is a theoretical limit to how many games you can have at once, based on your available memory. Therefore it is *strongly* recommended that you add games you know you'll play/actually own/want to display in-game, instead of dropping your collection of *_,000* games into EmuVR.
 
 # Customizing game labels, posters, etc
 
