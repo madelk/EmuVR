@@ -15,7 +15,7 @@ This list is incomplete- a ? represents a control that has not yet been confirme
 | Snap Turn | Q/E | Trackpad Left/Right(Right in Locomotion Mode) | Analog Left/Right(Right hand in Locomotion Mode) | LB/RB |
 | Toggle Power(TV) | C | Grip + (Left)Trackpad Right | Trigger + B | A |
 | Power (Console - Hold while targeting to power off) | Spacebar | Grip + Trackpad Down | Trigger + A/X | A |
-| Attach to Console | Spacebar | Modifier+Trackpad Down | Modifier+A/X | A |
+| Attach to Console | Spacebar | Grip + Trackpad Down | Trigger + A/X | A |
 | Release from Console | Cntrl+Spacebar | Both Menu Buttons | Press Both Analogs | Press Both Analogs |
 | Attach Cables (Use on console, then TV) | F | Grip + (Right)Trackpad Left | Trigger + B | Y |
 | Spawn Menu | Tab | Menu Button(Either hand) | Start | Start |
