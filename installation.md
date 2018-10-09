@@ -23,6 +23,7 @@
       * Each console will have it's own folder, e.g. "n64", "genesis", etc.
       * You can delete the default "SystemX/Y/Z" folders.
    2. Move the .zip (or .sfc, etc) into **c:\EmuVR\Games\snes**
+      * Note: EmuVR loads labels for all of your games into video memory at launch. As such, adding a large number of games could cause stability issues, including slowness and crashing. There is no known upper limit, but keep in mind that migrating a full list of roms from a previous library is not recommended (e.g., thousands of games).
 9. Add games to EmuVR
    1. Run **C:\EmuVR\Game Scanner\Game Scanner.exe**
    2. Click "Attempt Autofill"
