@@ -25,3 +25,14 @@ anything|anything
 8. Add a "Video" console and insert one of the "Video" carts. Start the console as normal.
 
 The instructions for setting up a Music folder is identical, except replace "Videos" with "Music"
+
+
+# Controls
+
+Videos also have controls- for now the keyboard commands are listed, Vive/Touch will be added once they're confirmed.
+
+Fast-Forward - Spacebar
+Seek (60 sec) - Up/Down
+Seek (10 sec) - Left/Right
+Pause - P
+Subtitles(If applicable) - W
