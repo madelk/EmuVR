@@ -10,8 +10,8 @@
    * Try hitting spacebar. That's the default hotkey for fast-forward (toggle).
 * (In general) "My Game won't start, and I've tried all the other steps"
    * Make sure you can run the game directly from EmuVR\Retroarch\retroarch.exe . If it doesn't run in Retroarch, it's not going to run in EmuVR. There are several causes of these kinds of issues, like missing or misnamed BIOS files. Some of the issues are even core-specific. The Retroarch documentation and help community will almost certainly be a better (or faster) resource than the EmuVR help channels (since they already have practice supporting Retroarch).
-* EmuVR is freezing/won't launch properly!
-  * Do you have a ton of games loaded up? That's awesome! However EmuVR loads them all into memory, so in practical terms that's less awesome. What this means is that since every game is loaded into memory, if you load too many you wind up with massive performance issues. It's highly recommended that you trim your collection down to those games that you play frequently or know you'll play, rather than just dropping thousands of games into your library.
+* EmuVR is freezing at startup/won't launch properly!
+  * Do you have a ton of games loaded up? That's awesome! However EmuVR loads labels for them all into memory, so in practical terms that's less awesome. What this means is that since every label is loaded into memory, if you load too many games you wind up with massive performance issues. It's highly recommended that you trim your collection down to those games that you play frequently or would like to have on display, rather than just dropping thousands of games into your library.
 
 # Known issues
 
