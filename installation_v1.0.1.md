@@ -26,7 +26,7 @@
    5. Click "Download Missing Cores" (wait for the download to complete and click "Ok")
    6. Click "Scan Games for EmuVR" (Wait for the scan to complete, then click "Ok")
 7. Run **C:\EmuVR\EmuVR.exe** and make sure your consoles and carts are available
-   * If you would like to run in Desktop Mode, execute desktop.bat in the same place as EmuVR.exe. 
+   * If you would like to run in Desktop Mode, execute "Force Desktop.exe" in the same place as EmuVR.exe. 
 
 # Adding games after the initial install
 
