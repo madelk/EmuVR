@@ -1,16 +1,12 @@
 # Installation
 
 1. Download the following archives;
-   * EmuVR base archive (EmuVR.7z)
-      * https://drive.google.com/open?id=1EhQKG9TYFdudbAp-e9tnFy1OIm0ctO5t
-   * Customization files (Custom Files.7z)
-      * https://drive.google.com/open?id=128HSBL51yw2YiFT9SM5xJNT3goYAwXbV
-   * Custom start batch files for desktop, vive, rift modes - (Forgot this.7z)
-      * https://drive.google.com/open?id=1IsWxjmvw2oiZ5mpDR1mq0TxpFx-pzuQ7
+   * EmuVR base archive (EmuVR 1.0.1.7z)
+      * https://drive.google.com/open?id=1aI-WqDB3R2pZAPnIVrKVy0kdJAx0Q4t_
    * Approved Retroarch version (RetroArch.7z)
      * http://buildbot.libretro.com/stable/1.7.5/windows/x86_64/RetroArch.7z
 2. Create a folder for EmuVR (for this example, we'll use c:\EmuVR, but it can exist anywhere).
-3. Extract the contents of **EmuVR.7z** to **c:\EmuVR**
+3. Extract the contents of **EmuVR 1.0.1.7z** to **c:\EmuVR**
    * Note: If you end up with c:\EmuVR\EmuVR, move everything out of there into c:\EmuVR. It should look like this;
    ![](/images/install_emuvr_folder.png)
 4. Extract **RetroArch.7z** to **c:\EmuVR\Retroarch**
@@ -30,7 +26,7 @@
    5. Click "Download Missing Cores" (wait for the download to complete and click "Ok")
    6. Click "Scan Games for EmuVR" (Wait for the scan to complete, then click "Ok")
 7. Run **C:\EmuVR\EmuVR.exe** and make sure your consoles and carts are available
-   * If you would like to run in Desktop Mode, unpack **Forgot this.7z** into **C:\EmuVR** so that the .bat files are in the same place as EmuVR.exe. 
+   * If you would like to run in Desktop Mode, execute desktop.bat in the same place as EmuVR.exe. 
 
 # Adding games after the initial install
 
