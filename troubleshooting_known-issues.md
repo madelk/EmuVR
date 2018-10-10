@@ -1,4 +1,19 @@
-# Toubleshooting
+# Toubleshooting for v1.0.1
+
+* (In general) "My Game won't start, and I've tried all the other steps"
+   * Make sure you can run the game directly from EmuVR\Retroarch\retroarch.exe . If it doesn't run in Retroarch, it's not going to run in EmuVR. There are several causes of these kinds of issues, like missing or misnamed BIOS files. Some of the issues are even core-specific. The Retroarch documentation and help community will almost certainly be a better (or faster) resource than the EmuVR help channels (since they already have practice supporting Retroarch).
+* "EmuVR is slow, stutters, or crashes"
+   * EmuVR loads labels for all of the roms in the EmuVR\Games directories at runtime. Too many romes (and thus, too many labels) is known to cause performance issues and crashing. Reducing the number of roms in EmuVR\Games is recommended. There is no known upper limit, but "hundreds" is a good rule of thumb.
+
+# Known issues for v1.0.1
+
+* There's a white ring around the view
+* Gamecube games, while working in retroarch directly, aren't working in EmuVR
+* Occasionally, a new user's Retroarch will be set to mute by default (first time setup only)
+
+################################
+
+# Troubleshooting for v1.0
 * "I can't see any consoles or carts"
    * Check EmuVR\Game Scanner\emuvr_playlist.txt . There should be no blank lines (including the top and bottom lines). If there are, delete them and try again. You will need to double check this every tim eyou scan for games.
 * "My game cartridge loads in fine, but when I try to start I get a blue screen on the TV"
@@ -13,7 +28,7 @@
 * "EmuVR is slow, stutters, or crashes"
   * EmuVR loads labels for all of the roms in the EmuVR\Games directories at runtime. Too many romes (and thus, too many labels) is known to cause performance issues and crashing. Reducing the number of roms in EmuVR\Games is recommended. There is no known upper limit, but "hundreds" is a good rule of thumb.
 
-# Known issues
+# Known issues for v1.0
 
 These are issues that EmuVR is aware of and will be looking into;
 
@@ -26,6 +41,7 @@ These are issues that EmuVR is aware of and will be looking into;
 * Consoles that spawn with the room at startup are labelled as "Generic" and won't accept cartridges. Players need to manually spawn the system of their choosing for the time being. EmuVR has stated this will be fixed in the next update.
 * If you have a Videos folder defined with no media type or core, you can't save
    * ![](/images/videos_unselected_error.png)
+
 
 # Not well tested issues
 
