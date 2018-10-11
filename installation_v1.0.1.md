@@ -2,7 +2,7 @@
 
 1. Download the following archives;
    * EmuVR base archive (EmuVR 1.0.1.7z)
-      * [https://drive.google.com/open?id=1aI-WqDB3R2pZAPnIVrKVy0kdJAx0Q4t_](https://drive.google.com/open?id=1aI-WqDB3R2pZAPnIVrKVy0kdJAx0Q4t_)
+      * (Latest download is always available in the official EmuVR Discord server)
    * Approved Retroarch version (RetroArch.7z)
      * http://buildbot.libretro.com/stable/1.7.5/windows/x86_64/RetroArch.7z
 2. Create a folder for EmuVR (for this example, we'll use c:\EmuVR, but it can exist anywhere).
