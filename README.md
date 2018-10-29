@@ -1,1 +1,1 @@
-# [MOVED](http://www.emuvr.net/wiki)
+# [MOVED HERE](http://www.emuvr.net/wiki)
